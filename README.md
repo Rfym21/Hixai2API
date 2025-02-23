@@ -17,7 +17,7 @@
 
 ### 本地运行
 
-2. 下载仓库文件：
+1. 下载仓库文件：
 
    ```bash
    git clone https://github.com/Rfym21/Hixai2API
@@ -29,6 +29,16 @@
    ```bash
    npm install
    ```
+
+3. 运行服务：
+
+   ```bash
+   npm start
+   ```
+
+## 获取 Token
+![2025-02-23_18-29-17.png](https://s2.loli.net/2025/02/23/my1SVoaqWvbTuRA.png)
+
 ## API 端点
 
 ### 获取模型列表
