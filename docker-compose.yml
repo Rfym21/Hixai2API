@@ -1,0 +1,7 @@
+services:
+  hixai2api:
+    container_name: hixai2api
+    image: rfym21/hixai2api:latest
+    restart: always
+    ports:
+      - "8999:8999"
